@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1415101140 source:c:\users\m3\desktop\koncentricni kvadrati\main.c
+	<stdio.h>
+	<stdlib.h>
+

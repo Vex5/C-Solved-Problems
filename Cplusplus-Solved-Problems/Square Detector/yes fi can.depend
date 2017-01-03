@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1386765828 source:c:\users\m3\desktop\yes fi can\main.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<vector>
+	<algorithm>
+

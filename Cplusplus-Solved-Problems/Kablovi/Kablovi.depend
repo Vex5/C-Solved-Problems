@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1391559592 source:c:\users\m3\desktop\kablovi\main.cpp
+	<fstream>
+	<stdio.h>
+	<math.h>
+	<iostream>
+

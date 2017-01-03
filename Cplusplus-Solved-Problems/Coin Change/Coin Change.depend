@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1390267461 source:c:\users\m3\desktop\coin change\main.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+

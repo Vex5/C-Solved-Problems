@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1387628388 source:c:\users\m3\desktop\zad4\main.cpp
+	<iostream>
+	<cstdio>
+	<queue>
+

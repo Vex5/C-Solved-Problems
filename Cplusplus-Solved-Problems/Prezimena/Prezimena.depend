@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1386537998 source:c:\users\m3\desktop\prezimena\main.cpp
+	<iostream>
+	<cstdio>
+	<vector>
+	<algorithm>
+
